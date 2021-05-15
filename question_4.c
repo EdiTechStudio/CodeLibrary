@@ -1,5 +1,5 @@
 /*
- * C program to print all perfect numbers between a given range
+ * C program to find if a given number is Palindrome.
  */
 #include <stdio.h>
 
